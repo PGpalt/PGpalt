@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PGpalt
 - 👀 I’m interested in  Video Game Develpment , A.I. , Machine Learning , DevOPS , Cloud Infrastructures , Cybersecurity
-- 🌱 I’m currently an undergraduate student at TUC
-- 💞️ I’m looking to collaborate on anything related to video game Development
-- 📫 How to reach me ...
+- 🌱 I’m currently an undergraduate student at Technical University of Crete
+- 💞️ I’m looking to collaborate on anything related to DevOPS and video game Development
+- 📫 You can reach at pgeorgakopoulos@tuc.gr
 
 <!---
 PGpalt/PGpalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
