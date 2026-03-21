@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PGpalt
-- 👀 I’m interested in DevOPS , Video Game Develpment , A.I. , Machine Learning , Cloud Infrastructures , Cybersecurity
-- 🌱 Electrical & Computer Engineering graduate from the Technical University of Crete specializing in DevOps
+- 👀 I’m interested in DevOPS , Distributed Systems , Video Game Develpment , A.I. , Machine Learning , Cloud Infrastructures , Cybersecurity
+- 🌱 Electrical & Computer Engineering graduate from the Technical University of Crete specializing in DevOps and Distributed Systems
 - 💞️ I’m looking to collaborate on anything related to DevOPS and video game Development
 - 📫 You can reach at pgeorgakopoulos@tuc.gr
 
