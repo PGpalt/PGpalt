@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PGpalt
+- 👋 Hi, I’m Panos
 - 👀 I’m interested in DevOPS , Distributed Systems , A.I. , Machine Learning , Cloud Infrastructures , Cybersecurity
 - 🌱 Electrical & Computer Engineering graduate from the Technical University of Crete specializing in Distributed Systems
 - 💞️ I’m looking to collaborate on anything related to DevOPS , Distributed Systems and Machine Learning
